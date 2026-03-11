@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+output/
+*.mp3
+*.wav
+*.m4a
+*.webm
+*.flac
+*.ogg
+.DS_Store
